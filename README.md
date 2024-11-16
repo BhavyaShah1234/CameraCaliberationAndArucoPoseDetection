@@ -5,10 +5,10 @@ What is the camera lens frame coordinate system?
 
 Imagine you are looking through the camera viewfinder. The:
 
-positive x-axis points to the right
+<li>positive x-axis points to the right</li>
 
-positive y-axis points straight down towards your toes
+<li>positive y-axis points straight down towards your toes</li>
 
-positive z-axis points straight ahead away from you, out of the camera
+<li>positive z-axis points straight ahead away from you, out of the camera</li>
 
 Reference: https://automaticaddison.com/how-to-perform-pose-estimation-using-an-aruco-marker/
