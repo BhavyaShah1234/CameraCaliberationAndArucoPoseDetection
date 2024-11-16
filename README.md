@@ -2,6 +2,7 @@
 This script helps caliberate any camera and helps detect pose using aruco markers.
 
 What is the camera lens frame coordinate system?
+
 Imagine you are looking through the camera viewfinder. The:
 positive x-axis points to the right
 positive y-axis points straight down towards your toes
